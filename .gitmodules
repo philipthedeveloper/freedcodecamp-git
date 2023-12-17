@@ -1,3 +1,6 @@
 [submodule "demo-repo"]
 	path = demo-repo
 	url = https://github.com/philipthedeveloper/demo-repo.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/philipthedeveloper/demo-repo2.git
